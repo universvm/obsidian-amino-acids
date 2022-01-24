@@ -1,5 +1,7 @@
+### [[Residues MOC]]
 # ASP
 ![[res16.png]]
+Tags:: #bio #residues
 ## Details
 **residue mwt**:: 115.0874
 **residue charge**:: -1

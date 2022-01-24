@@ -1,5 +1,7 @@
+### [[Residues MOC]]
 # GLN
 ![[res15.png]]
+Tags:: #bio #residues
 ## Details
 **residue mwt**:: 128.1292
 **residue charge**:: 0

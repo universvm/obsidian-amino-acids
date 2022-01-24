@@ -1,5 +1,7 @@
+### [[Residues MOC]]
 # MET
 ![[res9.png]]
+Tags:: #bio #residues
 ## Details
 **residue mwt**:: 131.1961
 **residue charge**:: 0

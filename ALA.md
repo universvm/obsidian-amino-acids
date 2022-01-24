@@ -1,5 +1,7 @@
+### [[Residues MOC]]
 # ALA
 ![[res2.png]]
+Tags:: #bio #residues
 ## Details
 **residue mwt**:: 71.0779
 **residue charge**:: 0

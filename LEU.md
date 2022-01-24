@@ -1,5 +1,7 @@
+### [[Residues MOC]]
 # LEU
 ![[res4.png]]
+Tags:: #bio #residues
 ## Details
 **residue mwt**:: 113.1576
 **residue charge**:: 0

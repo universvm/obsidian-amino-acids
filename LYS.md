@@ -1,5 +1,7 @@
+### [[Residues MOC]]
 # LYS
 ![[res18.png]]
+Tags:: #bio #residues
 ## Details
 **residue mwt**:: 128.1723
 **residue charge**:: 1

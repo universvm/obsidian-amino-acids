@@ -1,5 +1,7 @@
+### [[Residues MOC]]
 # GLU
 ![[res17.png]]
+Tags:: #bio #residues
 ## Details
 **residue mwt**:: 129.114
 **residue charge**:: -1

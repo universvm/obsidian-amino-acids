@@ -1,5 +1,7 @@
+### [[Residues MOC]]
 # SER
 ![[res12.png]]
+Tags:: #bio #residues
 ## Details
 **residue mwt**:: 87.0773
 **residue charge**:: 0

@@ -1,5 +1,7 @@
+### [[Residues MOC]]
 # ASN
 ![[res14.png]]
+Tags:: #bio #residues
 ## Details
 **residue mwt**:: 114.1026
 **residue charge**:: 0

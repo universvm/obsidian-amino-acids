@@ -1,5 +1,7 @@
+### [[Residues MOC]]
 # TRP
 ![[res7.png]]
+Tags:: #bio #residues
 ## Details
 **residue mwt**:: 186.2099
 **residue charge**:: 0

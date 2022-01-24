@@ -1,5 +1,7 @@
+### [[Residues MOC]]
 # ARG
 ![[res19.png]]
+Tags:: #bio #residues
 ## Details
 **residue mwt**:: 156.1857
 **residue charge**:: 1

@@ -52,8 +52,10 @@ for res in standard_amino_acids.keys():
     features = [residue_mwt, residue_charge, residue_pka, residue_ext_280, standard_amino_acids, a_helix_Levitt, accessibility_Janin, avg_flex_index, beta_sheet_Levitt, beta_turn_Levitt, bulkiness, hydropathicity, max_asa, polarity_Grantham, polarity_Zimmerman, recognition_factors, refractivity, relative_mutability, retention_coeff_hplc_pH7pt4, transmembrane_tendancy, uniprot_composition_2013, number_of_codons, pI, pK_COOH, pK_NH3, pK_Rgroup, side_chain_dihedrals]
     names = ["residue mwt","residue charge","residue pka","residue ext 280","standard amino acids","a helix Levitt","accessibility Janin","avg flex index","beta sheet Levitt","beta turn Levitt","bulkiness","hydropathicity","max asa","polarity Grantham","polarity Zimmerman","recognition factors","refractivity","relative mutability","retention coeff hplc pH7pt4","transmembrane tendancy","uniprot composition 2013","number of codons","pI","pK COOH","pK NH3","pK Rgroup", "side chain dihedrals"]
     with open(f"{standard_amino_acids[res]}.md", "w") as f:
+        f.write("### [[Residues MOC]]\n")
         f.write(f"# {standard_amino_acids[res]}\n")
         f.write(f"![[res{res_idx_dict[standard_amino_acids[res]]}.png]]\n")
+        f.write(f"Tags:: #bio #residues\n")
         f.write(f"## Details\n")
         for n, feat in zip(names, features):
             if res in feat:

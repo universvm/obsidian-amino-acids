@@ -1,5 +1,7 @@
+### [[Residues MOC]]
 # PHE
 ![[res8.png]]
+Tags:: #bio #residues
 ## Details
 **residue mwt**:: 147.1739
 **residue charge**:: 0
